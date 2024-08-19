@@ -11,7 +11,7 @@ I transformed the raw data from the National Urban Public Security Survey (ENSU)
 - Filtering and selecting data
 - Joins
 - Grouping
-- Converting Data Types
+- Converting data types
 - Replacing strings
 - Handling null values
 - Defining a function
